@@ -21,8 +21,11 @@ from FilterryBot.modules.helper_funcs.misc import paginate_modules
 from FilterryBot.modules.translations.strings import tld, tld_help, tld_start
 from FilterryBot.modules.connection import connected
 
-SOURCE_STRING = """Sorry it's private it will be opened soon . \n
-For updates join @DevelopedBots ."""
+SOURCE_STRING = """Oh you want my source !
+
+Check Below 👇
+
+⚙️ Source ⚙️ - [Click Here](https://github.com/Kunal-Diwan/Filterry-Bot) ."""
 
 FILTERRY_HOME_TEXT = """
 *All Setup done ✔️* \n\nUse /help to Know all modules and features \n
