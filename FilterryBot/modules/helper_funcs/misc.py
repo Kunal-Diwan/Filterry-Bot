@@ -54,10 +54,10 @@ def paginate_modules(chat_id, page_n: int, module_dict: Dict, prefix, chat=None)
              in module_dict.values()])
 
     pairs = [
-    modules[i * 3:(i + 1) * 3] for i in range((len(modules) + 3 - 1) // 3)
+    modules[i * 3:(i + 1) * 2] for i in range((len(modules) + 2 - 1) // 2)
     ]
 
-    round_num = len(modules) / 3
+    round_num = len(modules) / 2
     calc = len(modules) - round(round_num)
     if calc == 1:
         pairs.append((modules[-1], ))
