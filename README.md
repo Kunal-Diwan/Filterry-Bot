@@ -39,12 +39,12 @@
 
 ### Available Languages 👇
 
-• English 🇺🇸 \n
-• Russian 🇷🇺 \n
-• Spanish 🇪🇸 \n
-• Hindi 🇮🇳 \n
-• Indonesian 🇮🇩 \n
-• Italian 🇮🇹 \n
+• English 🇺🇸 
+• Russian 🇷🇺
+• Spanish 🇪🇸
+• Hindi 🇮🇳
+• Indonesian 🇮🇩
+• Italian 🇮🇹 
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kunal-Diwan/Filterry-Bot)
